@@ -1,0 +1,21 @@
+{
+    "message": "你好 , Vue.js",
+    "nav":{
+        "home": "首頁",
+        "earthquakes": "地震",
+        "calculator": "計算機",
+        "TodoList": "清單",
+        "Login": "登入",
+        "draw": "抽籤",
+        "swiper": "輪播(套件)",
+        "slide": "輪播",
+        "mailto": "寄信"
+    },
+    "earthquakes": "地震",
+    "Login":{
+        "Login": "登入",
+        "Username": "帳號",
+        "Email": "信箱",
+        "Password": "密碼"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "message": "Hello , Vue.js",
+    "nav":{
+        "home": "Home",
+        "earthquakes": "Earthquakes",
+        "calculator": "Calculator",
+        "TodoList": "TodoList",
+        "Login": "Login",
+        "draw": "Draw",
+        "swiper": "Swiper",
+        "slide": "Slide",
+        "mailto": "Mailto"
+    },
+    "earthquakes": "Earthquakes",
+    "Login":{
+        "Login": "Login",
+        "Username": "Username",
+        "Email": "Email",
+        "Password": "Password"
+    }
+}
